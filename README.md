@@ -13,7 +13,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="30" />
 </a>
 
-<a href="arturnilson@gmail.com" target="blank">
+<a>
     <img align="center" src="https://user-images.githubusercontent.com/38081852/86829797-39ae9d80-c06b-11ea-9b5e-c9ade9446951.png" alt="arturnilson@gmail.com" height="20" width="30" />
 </a>
 </p>
