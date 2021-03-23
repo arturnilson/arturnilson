@@ -1,7 +1,7 @@
 <h3 align="left">Hi there 👋, I'm Artur</h3>
 
 - 🔭 I’m currently working with PHP, HTML, CSS, JavaScript, VueJs and PostgreSQL
-- 🌱 I’m currently learning ReactJS, NodeJS and Java
+- 🌱 I’m currently learning React JS, Next JS, Node JS and Java
 - ⚡ Fun fact: I love music, play guitar, all kind of sports and spending time with family and friends
  
 
