@@ -1,6 +1,6 @@
 <h3 align="left">Hi there 👋, I'm Artur</h3>
 
-- 🔭 I’m currently working with Node JS, Typescript, React JS, React Native, PHP, HTML & CSS
+- 🔭 I’m currently working with Node JS, Typescript, React JS, React Native, PHP, Python, HTML & CSS
 - 🌱 I’m currently learning React JS, Next JS, Node JS and Java
 - ⚡ Fun fact: I love music, play guitar, all kind of sports and spending time with family and friends
  
